@@ -212,11 +212,12 @@ print(f"Root Mean Square Error: {rmse}")
 | 2018-01-04 | 1209.59 |
 
 ✅ **Forecast Visualization:**
-A line plot showing:
+<img width="1971" height="780" alt="image" src="https://github.com/user-attachments/assets/aaf39eb3-46ad-458b-bf0d-5313e817228a" />
 
-* Blue line → Forecasted stock price
-* Black dots → Actual data
-* Shaded region → Confidence interval
+<img width="2379" height="980" alt="image" src="https://github.com/user-attachments/assets/0271d951-ade9-45bd-8dc1-58d89eebf3f7" />
+
+<img width="1979" height="1528" alt="image" src="https://github.com/user-attachments/assets/bb7ebe68-7d07-49d1-8b9b-29d51a13f2ef" />
+
 
 ✅ **Components Plot:**
 Displays **trend**, **weekly**, and **yearly** effects on Amazon’s stock price.
